@@ -1,4 +1,5 @@
-![Asset_2](https://user-images.githubusercontent.com/9385903/179427330-b8f9c73b-8b50-47e0-ae50-80404e346b0c.png)  
+![](https://user-images.githubusercontent.com/9385903/179428569-94912ff1-10bb-458c-8e3f-73e3834a7209.png)
+
 ![](https://pyheroku-badge.herokuapp.com/?app=integravy)
 [![Maintainability](https://api.codeclimate.com/v1/badges/31e47115b2da5c3213a1/maintainability)](https://codeclimate.com/github/NikoDyring/integravy/maintainability)
 # Still a Work in Progress!
